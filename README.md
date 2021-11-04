@@ -5,4 +5,6 @@ This includes;
     - Simple linear Regression
     - Multiple Linear Regression
     - Non-Linear Regression
+    - K-Nearest Neighbor
+    - Decision Tree
     

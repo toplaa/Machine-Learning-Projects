@@ -4,4 +4,5 @@ This respository containes the implementation of various machine learning algori
 This includes;
     - Simple linear Regression
     - Multiple Linear Regression
+    - Non-Linear Regression
     

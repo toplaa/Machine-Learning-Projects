@@ -7,4 +7,4 @@ This includes;
     - Non-Linear Regression
     - K-Nearest Neighbor
     - Decision Tree
-    - Logisic Regression
+    - Logistic Regression

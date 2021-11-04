@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine-Learning-Projects and Algorithms
 
 This respository containes the implementation of various machine learning algorithms:
 This includes;
@@ -7,4 +7,4 @@ This includes;
     - Non-Linear Regression
     - K-Nearest Neighbor
     - Decision Tree
-    
+    - Logisic Regression

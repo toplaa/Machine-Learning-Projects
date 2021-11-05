@@ -10,3 +10,4 @@ This includes;
     - Logistic Regression
     - Support Vector Machine (SVM)
     - K-Means Clustering
+    - Recommender System (Content Based Filtering)
